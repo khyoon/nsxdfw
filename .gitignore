@@ -1,0 +1,6 @@
+#folder
+.terraform/
+
+#file
+terraform.tfstate
+terraform.tfstate.backup
